@@ -57,9 +57,10 @@ Proje, hem çevresel sürdürülebilirliğe katkı sağlamayı hem de 3B yazıc�
 
 
 ---
-
+* **Faydalanılan Yazılım Altyapısı:** [PETALOT_ORCA)
  Kurulum ve Çalıştırma
 
 1. Bu depoyu klonlayın:
    ```bash
+  
    git clone [https://github.com/kullanici_adin/PET-Extruder-Bot.git](https://github.com/kullanici_adin/PET-Extruder-Bot.git)
